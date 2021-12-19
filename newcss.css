@@ -13,14 +13,17 @@ and open the template in the editor.
     right:0;
     margin: auto;
 }
-.case1{
-    text-align: center;
+.ligne1{
     color: white;
-}
-.case2{
     text-align: center;
-    color: white;
+    height: 150px;
+    border: 2px white solid;
 }
-.case3{text-align: center;
-    color: white; 
+.milieu{
+    width: 375px;
+}
+.ligne2{
+    color: white;
+    text-align: center;
+    height: 150px;
 }
